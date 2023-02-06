@@ -1,4 +1,5 @@
-resource "aws_s3_bucket" "b" {
+/*
+ resource "aws_s3_bucket" "b" {
   bucket = "my-tf-test-bucket-github06022023"
 
   tags = {
@@ -6,3 +7,8 @@ resource "aws_s3_bucket" "b" {
     Environment = "Dev"
   }
 }
+
+*/
+
+
+
